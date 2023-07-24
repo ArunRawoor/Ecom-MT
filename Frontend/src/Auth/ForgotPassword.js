@@ -110,7 +110,7 @@ const ForgotPassword = ({ onClose }) => {
                 fontWeight: 'bold',
               }}
             >
-              Confirm Password
+              Confirm Passwordd
             </label>
             <input
               style={{
